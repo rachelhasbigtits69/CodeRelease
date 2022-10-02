@@ -1,6 +1,5 @@
 anytree
 appdirs
-aria2p
 asyncio
 attrdict
 beautifulsoup4
@@ -22,10 +21,8 @@ pyrogram
 python-dotenv
 python-magic
 python-telegram-bot
-qbittorrent-api
 requests
 telegraph
 tenacity
 tgCrypto
 urllib3
-yt-dlp
